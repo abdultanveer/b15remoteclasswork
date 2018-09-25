@@ -12,6 +12,11 @@ public class GST extends IncomeTax {
 		}
 	}
 	
+	/**
+	 * this method will calculate gst
+	 */
 	public void calculateGst() {}
+	
+	
 
 }
